@@ -128,7 +128,10 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 * [How to configure Magento Google Indexing API Extension?](https://magefan.com/magento-2-google-indexing-api/configuration)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
+
 ### [Magento 2 Admin Panel Extensions](https://magefan.com/magento-2-extensions/admin-extensions)
+
+  * [Magento 2 Admin Action Log](https://magefan.com/magento-2-admin-action-log)
   * [Magento 2 Automatic Related Products](https://magefan.com/magento-2-automatic-related-products)
   * [Magento 2 Automatic Related Products Plus](https://magefan.com/magento-2-automatic-related-products/pricing)
   * [Magento 2 Edit Order Extension](https://magefan.com/magento-2-edit-order-extension)
