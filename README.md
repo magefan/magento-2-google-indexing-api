@@ -1,4 +1,4 @@
-# Magento 2 Google Indexing API Extension by Magefan
+# [Magento 2 Google Indexing Extension](https://magefan.com/magento-2-google-indexing-api) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -12,6 +12,10 @@ Notify Google about added, edited and deleted pages instantly and improve your p
 
 <a href="https://magefan.com/magento-2-google-indexing-api"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-google-indexing-api#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
+    
 ## Benefits
 
 * Faster Google indexing
@@ -109,6 +113,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-google-indexing-api/issues).
 
 ## Need More Features?
 Please contact us to get a quote
